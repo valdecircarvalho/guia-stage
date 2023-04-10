@@ -1,5 +1,7 @@
+docs_dir: 'source'
+site_dir: 'docs'
 site_name: O Guia do Steam Deck
-site_url: https://guiadosteamdeck.com.br/
+#site_url: https://guiadosteamdeck.com.br/
 
 # Theme options: https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes
   # bootstrap4 - https://github.com/byrnereese/mkdocs-bootstrap4
@@ -14,8 +16,8 @@ copyright: >
   Copyright &copy; 2023 - Valdecir Carvalho –
   <a href="#__consent">Mudar configurações de cookies</a>
 
-repo_url: https://github.com/valdecircarvalho/guia-do-steam-deck/
-repo_name: o guia do steam deck
+#repo_url: https://github.com/valdecircarvalho/guia-do-steam-deck/
+#repo_name: o guia do steam deck
 
 # Navigation Menu
 
@@ -106,6 +108,8 @@ markdown_extensions:
 theme:
   name: material
   #locale: pt
+  docs_dir: 'source'
+  site_dir: 'docs'
   language: pt-BR 
   include_sidebar: true
   font: false
