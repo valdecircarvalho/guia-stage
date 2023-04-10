@@ -1,0 +1,177 @@
+site_name: O Guia do Steam Deck
+site_url: https://guiadosteamdeck.com.br/
+
+# Theme options: https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes
+  # bootstrap4 - https://github.com/byrnereese/mkdocs-bootstrap4
+  # readthedocs
+  # material - https://github.com/squidfunk/mkdocs-material
+  # bootstrap386 - https://gitlab.com/lramage/mkdocs-bootstrap386
+  # gitbook - https://gitlab.com/lramage/mkdocs-gitbook-theme
+# site_dir: ""
+site_description: ""
+site_author: ""
+copyright: >
+  Copyright &copy; 2023 - Valdecir Carvalho –
+  <a href="#__consent">Mudar configurações de cookies</a>
+
+repo_url: https://github.com/valdecircarvalho/guia-do-steam-deck/
+repo_name: o guia do steam deck
+
+# Navigation Menu
+
+nav:
+  - Template: template.md
+  - Home: 
+    - index.md
+    - O Steam Deck: steamdeck/steamdeck.md
+    - Links: links/links.md
+    - Configurações: configuracoes/index.md
+    - Jogos: jogos/index.md
+    - Emulacao: 
+      - emulacao/index.md
+      - Guia Descomplicado do Emudeck: emulacao/guia1.md
+      - Packs de Emuladores para o Steam Deck: emulacao/packs-completos-de-emuladores-para-o-steam-deck.md
+      - Roms: emulacao/roms.md
+    - Windows: windows/windows.md
+    - Ajuda & Dicas: ajuda/ajuda.md
+  - FAQ: faq/faq.md
+  - Sobre o Guia do Steam Deck: sobre.md
+  - Como contribuir com o Guia do Steam Deck: contribua.md
+  - Tags: tags.md
+
+
+# use_directory_urls: true
+
+extra_css:
+  - stylesheets/extra.css
+  
+## Plugins Configuration
+plugins:
+  - open-in-new-tab ## pip install mkdocs-open-in-new-tab
+
+  - search:
+      indexing: 'full'
+      lang: pt
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+
+  - tags:
+      enable: true
+      tags_file: tags.md
+      tags_slugify: headerid.slugify
+      tags_slugify_separator: "-"
+#  - social:
+#      cards_color:
+#        fill: "#0FF1CE" 
+#        text: "#FFFFFF"
+
+
+
+
+#extensions - https://facelessuser.github.io/pymdown-extensions/ // https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown-extensions/
+markdown_extensions:
+  - smarty
+  - abbr
+  - admonition
+  - attr_list
+  - md_in_html
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+       kwds:
+        case: lower
+  - tables
+  - pymdownx.betterem
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji 
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.keys
+  - pymdownx.smartsymbols
+  - pymdownx.critic
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: valdecircarvalho
+      repo: guia-do-steam-deck
+
+
+## material theme config
+theme:
+  name: material
+  #locale: pt
+  language: pt-BR 
+  include_sidebar: true
+  font: false
+  logo: assets/logo.png
+  favicon: images/favicon.png
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: light blue
+      accent: light blue
+      toggle:
+        icon: material/lightbulb
+        name: Modo Escuro
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: light blue
+      accent: light blue
+      toggle:
+        icon: material/lightbulb-outline
+        name: Modo Claro
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs # habilitar depois de organizar
+    - navigation.tabs.sticky  
+    - navigation.sections
+    - navigation.expand 
+    - navigation.indexes
+    - toc.follow
+#    - toc.integrate 
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+    - announce.dismiss
+    - navigation.footer
+ #Theme icons            
+  icon:
+    tag:
+      steamdeck: fontawesome/brands/html5
+      emulacao: fontawesome/brands/css3 
+      básico: fontawesome/brands/js
+      início:  fontawesome/brands/css3
+      default: fontawesome/brands/microsoft
+    repo: fontawesome/brands/github
+# Extra Session
+extra:
+  consent:
+    title: Cookie consent
+    description: >- 
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+    actions:
+      - accept
+      - reject
+  tags:
+    HTML5: html
+    JavaScript: js
+    CSS: css
+
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/valdecircarvalho
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/guiadosteamdeck
