@@ -38,7 +38,7 @@ nav:
     - Ajuda & Dicas: ajuda/ajuda.md
   - FAQ: faq/faq.md
   - Sobre o Guia do Steam Deck: sobre.md
-  - Como contribuir com o Guia do Steam Deck: contribua.md
+  - Contribua com o Guia do Steam Deck: contribua.md
   - Tags: tags.md
 
 
@@ -141,7 +141,7 @@ theme:
     - navigation.expand 
     - navigation.indexes
     - toc.follow
-#    - toc.integrate 
+    - toc.integrate 
     - navigation.top
     - search.suggest
     - search.highlight
