@@ -1,9 +1,19 @@
 ---
-title: '7.4 - Guia de Emulação para o Steam Deck - Retro Game Corps'
-date: 2023-03-01T00:00:00+00:00
-weight: 7.4
-summary: 'Guia de Emulação para o Steam Deck por Russ Crandall - Retro Game Corps.'
+title: Guia de Emulação para o Steam Deck - Retro Game Corp #aparece no titulo do navegador
+description: Guia de Emulação para o Steam Deck por Russ Crandall - Retro Game Corps# descrição para meta tag
+authors:
+    - Valdecir Carvalho
+date: 2023-04-01
+tags:
+  - steamdeck
+  - emulação
+  - roms
+  - downloads
+  - packs
+  - guia
+  - emudeck
 ---
+
 
 > Texto traduzido e adaptado do Inglês para o Português do Brasil com autorização do autor, Russ Crandall. O conteúdo original pode ser encontrado em [https://retrogamecorps.com/2022/10/16/steam-deck-emulation-starter-guide/](https://retrogamecorps.com/2022/10/16/steam-deck-emulation-starter-guide/).
 

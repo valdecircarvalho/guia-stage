@@ -1,13 +1,16 @@
 ---
-title: 'Teclas de Atalho no Steam Deck'
-date: 2023-03-01T00:00:00+00:00
-weight: 4.7
-summary: 'Lista de Teclas de Atalho no Steam Deck'
-draft: 'true'
-slug: 'loca'
+title: Teclas de Atalho no Steam Deck #aparece no titulo do navegador
+description: Lista de Teclas de Atalho no Steam Deck # descrição para meta tag
+authors:
+    - Valdecir Carvalho
+date: 2023-04-01
+tags:
+  - steamdeck
+  - inicio
+  - básico
 ---
 
-### Lista de Teclas de Atalho no Steam Deck.
+# Lista de Teclas de Atalho no Steam Deck.
 
 Você pode utilizar uma combinação de teclas no seu Steam Deck para realizar algumas tarefas.
 

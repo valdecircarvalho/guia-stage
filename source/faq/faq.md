@@ -12,11 +12,12 @@ tags:
 # FAQ & Dúvidas sobre o Steam Deck
 :fontawesome-solid-person-digging: **_Em construção_**
 
+Aqui você irá encontrar resposta para as dúvidas mais comuns sobre o Steam Deck. Esse FAQ é uma compilação de perguntas e respostas do FAQ oficial da Valve, do FAQ da comunidade /r/valvesteamdeck e outros.
 
-#### É possível ter mais de uma conta Steam em um Steam Deck?[^1]
+#### É possível ter mais de uma conta Steam em um Steam Deck?
 :   Sim, e cada conta em um Steam Deck terá os seus próprios dados salvos e configurações locais.
 
-#### É possível rodar jogos não Steam via Proton no Steam Deck?[^1]
+#### É possível rodar jogos não Steam via Proton no Steam Deck?
 :   Sim, é possível rodar jogos não Steam via Proton.
 
 #### O Steam no Steam Deck terá um recurso "Adicionar jogo" assim como no cliente Steam em computadores?
@@ -77,7 +78,7 @@ tags:
 :   Não.
 
 #### Qual é a diferença entre os diferentes modelos de Deck? Quais são as especificações do Deck?
-:   Abaixo está uma tabela de diferenças. 
+:   Abaixo está uma tabela de diferenças entre os modelos
 
 |                   | 64GB           | 256GB                        | 512GB                                |
 |-------------------|----------------|------------------------------|--------------------------------------|
@@ -87,7 +88,7 @@ tags:
 | Community Profile | None           | **Exclusive Profile Bundle** | **Exclusive Profile Bundle**         |
 | Tema do Teclado   | None           | None                         | **Exclusive Virtual Keyboard Theme** |
 
-eMMC e NVMe referem-se ao tipo e velocidade de um SSD. Simplificando, o tipo de armazenamento NVMe é significativamente mais rápido que o eMMC.
+> eMMC e NVMe referem-se ao tipo e velocidade de um SSD. Simplificando, o tipo de armazenamento NVMe é significativamente mais rápido que o eMMC.
 
 #### Quais são as opções de expansão para o Steam Deck?
 :   Você pode expandir o armazenamento em qualquer Steam Deck usando um cartão micro SD. Eles se encaixam na parte inferior do Steam Deck e podem conter jogos e outros arquivos que você desejar! Você pode usar vários cartões micro SD e inseri-los e retirá-los, dependendo do jogo que deseja jogar.
@@ -96,7 +97,7 @@ eMMC e NVMe referem-se ao tipo e velocidade de um SSD. Simplificando, o tipo de 
 :   Veja o [artigo do SteamDeckHQ sobre o Proton](https://steamdeckhq.com/tips-and-guides/the-proton-ge-steam-deck-guide/)
 
 #### Como faço uma captura de tela no Steam Deck? Quais são as teclas de atalho/botões de atalho?
-:   Aperte a tecla STEM + R1 para tirar um screeshot da tela. [Aqui você encontra uma lista](/guia/ajuda/lista-de-teclas-de-atalho-no-steam-deck/) de todas as teclas de atalho do Steam Deck. Para ver uma lista completa de atalhos e teclas de atalho, mantenha pressionado o botão 'STEAM' no seu deck por alguns segundos. 
+:   Aperte a tecla STEM + R1 para tirar um screeshot da tela. [Aqui você encontra uma lista](/../steamdeck/teclas-de-atalho-no-steam-deck/) de todas as teclas de atalho do Steam Deck. Para ver uma lista completa de atalhos e teclas de atalho, mantenha pressionado o botão 'STEAM' no seu deck por alguns segundos. 
 
 #### Modo de área de trabalho do Steam Deck:
 :   O Steam Deck foi projetado para oferecer uma experiência completa do Steam assim que sai da caixa — os usuários podem descobrir, baixar e jogar jogos do Steam, conversar com amigos por texto ou por voz com a Conversa Steam, baixar atualizações de jogos e de sistema, ajustar as configurações do Steam Deck e muito mais usando a interface padrão do Deck. Dito isso, o Steam Deck é um computador, e você pode acessar a área de trabalho facilmente para fazer ainda mais. Aqui estão as respostas para algumas dúvidas comuns que recebemos acerca do uso da área de trabalho no Steam Deck.

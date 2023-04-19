@@ -1,12 +1,20 @@
 ---
-title: '4.3 - Como configurar o seu Steam Deck do Zero'
-date: 2023-03-01T00:00:00+00:00
-weight: 4.3
-summary: 'Como configurar o seu Steam Deck do Zero e como configurei meu Steam Deck após a troca do SSD e outras dicas.'
-slug: 'configuracao-do-steam-deck'
+title: Upgrade do SSD - Passo-a-Passo #aparece no titulo do navegador
+description: Upgrade do SSD - Passo-a-Passo # descrição para meta tag
+authors:
+    - Valdecir Carvalho
+date: 2023-04-01
+tags:
+  - steamdeck
+search:
+  boost: 2
+  exclude: false
 ---
-**_Em construção_**
-# Primeiras Configurações
+
+# Upgrade do SSD - Passo-a-Passo
+
+Fiz o upgrade do SSD do meu Steam Deck e esses foram os passos que eu segui:
+
 
 - Desmontar o Steam Deck
 - Trocar o SSD

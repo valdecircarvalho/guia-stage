@@ -7,10 +7,9 @@ date: 2023-04-01
 tags:
   - steamdeck
   - jogos
-  - inicio
-  - básico
 ---
 
+:fontawesome-solid-person-digging: **_Em construção_**
 
 # Jogos
 
@@ -90,4 +89,9 @@ Você também pode comprar jogos Steam (chaves de jogos) em outros sites e geral
 - [GG Deals - Steam Deals](https://gg.deals/deals/steam-deals/)
 - [SteamDB Sales](https://steamdb.info/sales/)
 - [SteamDB Sales - Novidades](https://steamdb.info/sales/history/)
+
+!!! info "Fontes"
+
+
+
 

@@ -1,6 +1,6 @@
 docs_dir: 'source'
 site_dir: 'docs'
-site_name: O Guia do Steam Deck
+site_name: O Guia do Steam Deck 
 #site_url: https://guiadosteamdeck.com.br/
 
 # Theme options: https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes
@@ -22,24 +22,50 @@ copyright: >
 # Navigation Menu
 
 nav:
-  - Template: template.md
   - Home: 
     - index.md
     - O Steam Deck: steamdeck/steamdeck.md
-    - Links: links/links.md
-    - Configurações: configuracoes/index.md
-    - Jogos: jogos/index.md
+    - Links Úteis: links/links.md
+    - Configurações Iniciais: configuracoes/configuracao.md
+    - Jogos: 
+      - Jogos no Steam Deck: jogos/jogos.md
+      - Como rodar jogos não Steam no Steam Deck: jogos/jogos.md
+      - Como rodar jogos alternativos no Steam Deck: jogos/jogos.md
+      - O ProtomDB: jogos/jogos.md
+      - Onde comprar Jogos para o Steam Deck: jogos/jogos.md      
     - Emulacao: 
-      - emulacao/index.md
+      - Emulacao no Steam Deck: emulacao/emulacao.md 
+      - Emudeck: emulacao/emudeck.md 
       - Guia Descomplicado do Emudeck: emulacao/guia1.md
+      - Guia de Emulação para o Steam Deck - Retro Game Corps: emulacao/retrogamecorps.md
       - Packs de Emuladores para o Steam Deck: emulacao/packs-completos-de-emuladores-para-o-steam-deck.md
       - Roms: emulacao/roms.md
-    - Windows: windows/windows.md
+      - Emulacao - Nintendo:
+        - Nintendo Switch: emulacao/nintendo/emulacao-nintendo-switch-steam-deck.md
+        - Nintendo Wii U: emulacao/nintendo/emulacao-nintendo-wii-u-steam-deck.md
+        - Nintendo Wii: emulacao/nintendo/emulacao-nintendo-wii-steam-deck.md
+        - Nintendo 3DS: emulacao/nintendo/emulacao-nintendo-3ds-steam-deck.md        
+      - Emulacao - Microsoft:
+        - Microsoft Xbox: emulacao/microsoft/microsoft-xbox.md
+        - Microsoft Xbox 360: emulacao/microsoft/microsoft-xbox-360.md
+      - Emulacao - Sony: 
+        - Sony PlayStation 1: emulacao/sony/sony-playstation-1.md
+        - Sony PlayStation 2: emulacao/sony/sony-playstation-2.md
+        - Sony PlayStation 3: emulacao/sony/sony-playstation-3.md
+        - Sony PlayStation PSP: emulacao/sony/sony-playstation-psp.md
+        - Sony PlayStation Vita: emulacao/sony/sony-playstation-vita.md
+      - Emulacao - Outros: 
+        - Outros Consoles: emulacao/outros/outros.md
+    - Windows no Steam Deck: windows/windows.md
+    - Hacks & Utilitários:
+        - Hacks & Utilitários para o Steam Deck: windows/windows.md
+        - CryoUtilities: windows/windows.md
     - Ajuda & Dicas: ajuda/ajuda.md
   - FAQ: faq/faq.md
   - Sobre o Guia do Steam Deck: sobre.md
   - Contribua com o Guia do Steam Deck: contribua.md
   - Tags: tags.md
+  - Template: template.md
 
 
 # use_directory_urls: true
@@ -137,11 +163,11 @@ theme:
     - navigation.tracking
     - navigation.tabs # habilitar depois de organizar
     - navigation.tabs.sticky  
-    - navigation.sections
-    - navigation.expand 
+    - #navigation.sections #deixar desabilitado - Mostra os menus fechado e a setinha para abrir o sub-menu
+    - #navigation.expand # Inicia com o menu fechado
     - navigation.indexes
     - toc.follow
-    - toc.integrate 
+    - #toc.integrate  # deixa o TOC/Indice do lado direito
     - navigation.top
     - search.suggest
     - search.highlight
@@ -151,21 +177,19 @@ theme:
  #Theme icons            
   icon:
     tag:
-      steamdeck: fontawesome/brands/html5
-      emulacao: fontawesome/brands/css3 
-      básico: fontawesome/brands/js
-      início:  fontawesome/brands/css3
-      default: fontawesome/brands/microsoft
+#      steamdeck: fontawesome/brands/html5
+#      emulacao: fontawesome/brands/css3 
+#      default: fontawesome/tag
     repo: fontawesome/brands/github
 # Extra Session
 extra:
   consent:
     title: Cookie consent
     description: >- 
-      We use cookies to recognize your repeated visits and preferences, as well
-      as to measure the effectiveness of our documentation and whether users
-      find what they're searching for. With your consent, you're helping us to
-      make our documentation better.
+       Usamos cookies para reconhecer suas visitas repetidas e preferências, bem como
+       para medir a eficácia de nossa documentação e se os usuários
+       encontrar o que eles estão procurando. Com o seu consentimento, você está nos ajudando a
+       tornar nossa documentação melhor
     actions:
       - accept
       - reject

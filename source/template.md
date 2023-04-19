@@ -8,7 +8,7 @@ tags:
   - HTML5
   - JavaScript
   - CSS  
-
+draft: true
 hide:
   - navigation : false
   - toc : false
@@ -23,6 +23,9 @@ tags:
 ---
 
 :octicons-heart-fill-24:{ .heart }
+
+:simple-steamdeck:
+
 
 
 :fontawesome-solid-person-digging:
