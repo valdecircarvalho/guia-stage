@@ -24,8 +24,10 @@ copyright: >
 nav:
   - Home: 
     - index.md
-    - O Steam Deck: steamdeck/steamdeck.md
-    - Links Úteis: links/links.md
+    - Steam Deck: 
+      - O Steam Deck: steamdeck/steamdeck.md
+      - Acessórios: steamdeck/steamdeck-acessorios.md
+      - Links Úteis: links/links.md
     - Configurações Iniciais: configuracoes/configuracao.md
     - Jogos: 
       - Jogos no Steam Deck: jogos/jogos.md
