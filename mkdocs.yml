@@ -27,8 +27,15 @@ nav:
     - Steam Deck: 
       - O Steam Deck: steamdeck/steamdeck.md
       - Acessórios: steamdeck/steamdeck-acessorios.md
-      - Links Úteis: links/links.md
-    - Configurações Iniciais: configuracoes/configuracao.md
+      - Links Úteis: steamdeck/links.md
+    - Configurações Básicas: 
+      - Configurações Iniciais: configuracoes/configuracao.md
+      - Conta Steam: configuracoes/conta-steam.md
+      - Controles: configuracoes/controles.md
+      - Teclas de Atalho: configuracoes/teclas-de-atalho-no-steam-deck.md
+    - Configurações Avançadas: 
+      - Configurações Avançadas: configuracoes-avancadas/configuracoes-avancadas-steam-deck.md
+      - Configurações de Performance: configuracoes-avancadas/steamdeck-performance.md          
     - Jogos: 
       - Jogos no Steam Deck: jogos/jogos.md
       - Como rodar jogos não Steam no Steam Deck: jogos/jogos.md

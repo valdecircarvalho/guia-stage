@@ -77,53 +77,56 @@ Outro artigo bacana sobre SD Cards você encontra [aqui](https://www.dexerto.com
 
 ## Mais informações sobre acessórios
 
-- **Storage (internal SSD)**
-    - Internal SSD Upgrade
-        - [iFixit SSD Replacement Guide](https://www.ifixit.com/Guide/Steam+Deck+SSD+Replacement/148989)
-        - [Tech Thusiast's Guide on How to Upgrade the SSD](https://www.youtube.com/watch?v=pwEo2qwPfig)
-        - [Lawrence Yang's (Valve Designer) Warning on 2242-sized Upgrades](https://twitter.com/lawrenceyang/status/1540863166438969345)
-    - [PSA: Remove your microSD Before Opening Your Steam Deck](https://www.reddit.com/r/SteamDeck/comments/tsdjxz/psa_dont_forget_to_remove_your_microsd_card/)
-    - [eBay Search for "M.2 2230 SSD" Drives](https://www.ebay.com/sch/i.html?_nkw=m.2+2230+ssd)
-    - Popular brands: Kioxia (Toshiba), Kingston, Western Digital, SK Hynix
-    - tl;dr - Make sure that it is a single-sided M.2 2230 form factor SSD
+!!! abstract "Mais informações sobre acessórios"
 
-- **Storage (external microSD)**
-    - [microSD Card Specs Guide](https://www.reddit.com/r/SteamDeck/comments/x1wasq/psa_a_microsd_card_guide_that_seems_to_be_sorely/)
-    - [Infographic on microSD Specs](https://www.reddit.com/r/SteamDeck/comments/tgzepn/just_as_info_i_know_there_are_alot_of_experts/)
-    - [Steam Deck Tech Specs](https://store.steampowered.com/steamdeck#SaleSection_24468) - UHS-I controller
-    - Popular brands: Lexar Play, Samsung EVO and PRO, Sandisk Extreme
-    - tl;dr - Get a reputable U3 A2 UHS-I microSD card
+    - **Storage (internal SSD)**
+        - Internal SSD Upgrade
+            - [iFixit SSD Replacement Guide](https://www.ifixit.com/Guide/Steam+Deck+SSD+Replacement/148989)
+            - [Tech Thusiast's Guide on How to Upgrade the SSD](https://www.youtube.com/watch?v=pwEo2qwPfig)
+            - [Lawrence Yang's (Valve Designer) Warning on 2242-sized Upgrades](https://twitter.com/lawrenceyang/status/1540863166438969345)
+        - [PSA: Remove your microSD Before Opening Your Steam Deck](https://www.reddit.com/r/SteamDeck/comments/tsdjxz/psa_dont_forget_to_remove_your_microsd_card/)
+        - [eBay Search for "M.2 2230 SSD" Drives](https://www.ebay.com/sch/i.html?_nkw=m.2+2230+ssd)
+        - Popular brands: Kioxia (Toshiba), Kingston, Western Digital, SK Hynix
+        - tl;dr - Make sure that it is a single-sided M.2 2230 form factor SSD
 
-- **Screen protector**
-    - [For 512GB owners - Screen Protector Pros & Cons](https://www.reddit.com/r/SteamDeck/comments/tc8g4p/comment/i0cmgzt/?utm_source=share&utm_medium=web2x&context=3)
-    - [amFilm Screen Protector (Glossy)](https://www.amazon.com/amFilm-Screen-Protector-Compatible-Steam/dp/B09TPF6NQ8)
-    - [MagGlass Matte Anti-glare Etched Glass Screen Protector](https://www.amazon.com/dp/B09X82S4XL/)
-        - [Before and After Off-angle](https://www.reddit.com/r/SteamDeck/comments/tzgylh/before_and_after_applying_the_magglass_antiglare/)
-        - [Before and After Head-on](https://www.reddit.com/r/SteamDeck/comments/w7i365/just_receiced_my_magglass_matte_screen_protector/)
-        - [MagGlass Comparison Pictures](https://www.reddit.com/r/SteamDeck/comments/y4xs7s/magglass_strong_avoid_if_you_want_to_retain_any/)
-    - tl;dr - Divided opinions on whether people like the matte glass protector and how it affects color and clarity
+    - **Storage (external microSD)**
+        - [microSD Card Specs Guide](https://www.reddit.com/r/SteamDeck/comments/x1wasq/psa_a_microsd_card_guide_that_seems_to_be_sorely/)
+        - [Infographic on microSD Specs](https://www.reddit.com/r/SteamDeck/comments/tgzepn/just_as_info_i_know_there_are_alot_of_experts/)
+        - [Steam Deck Tech Specs](https://store.steampowered.com/steamdeck#SaleSection_24468) - UHS-I controller
+        - Popular brands: Lexar Play, Samsung EVO and PRO, Sandisk Extreme
+        - tl;dr - Get a reputable U3 A2 UHS-I microSD card
 
-- **Case**
-    - [tomtoc Carrying Case](https://www.amazon.com/dp/B09ZYFV1GD/) - Larger Pouch with Shoulder Strap
-    - [MVRPDXC Sling Bag-style Case](https://www.amazon.com/dp/B0B2QRVPGL/)
-    - [Daydayup Carrying Case](https://www.amazon.com/dp/B09STVV9M8/)
-    - [JSAUX Carrying Case](https://www.amazon.com/dp/B09ZB1RZ2G/)
+    - **Screen protector**
+        - [For 512GB owners - Screen Protector Pros & Cons](https://www.reddit.com/r/SteamDeck/comments/tc8g4p/comment/i0cmgzt/?utm_source=share&utm_medium=web2x&context=3)
+        - [amFilm Screen Protector (Glossy)](https://www.amazon.com/amFilm-Screen-Protector-Compatible-Steam/dp/B09TPF6NQ8)
+        - [MagGlass Matte Anti-glare Etched Glass Screen Protector](https://www.amazon.com/dp/B09X82S4XL/)
+            - [Before and After Off-angle](https://www.reddit.com/r/SteamDeck/comments/tzgylh/before_and_after_applying_the_magglass_antiglare/)
+            - [Before and After Head-on](https://www.reddit.com/r/SteamDeck/comments/w7i365/just_receiced_my_magglass_matte_screen_protector/)
+            - [MagGlass Comparison Pictures](https://www.reddit.com/r/SteamDeck/comments/y4xs7s/magglass_strong_avoid_if_you_want_to_retain_any/)
+        - tl;dr - Divided opinions on whether people like the matte glass protector and how it affects color and clarity
 
-- **Chargers and Docks**
-    - [Steam Deck Charging Info](https://www.reddit.com/r/SteamDeck/comments/ub0ai4/a_few_important_things_about_charging_the_deck/) - Everything you need to know about charging your Steam Deck
-    - [ACEFAST GaN 65W Charger Dock](https://www.amazon.com/gp/product/B09W5T391Z/) - Combo charger and mini-dock with USB-C, USB-A, and 4K/HD HDMI
-    - [Anker Nano II 45W Charger](https://www.amazon.com/dp/B08T5QVTKW/) - The tiniest charger for your Steam Deck
-    - [JSAUX Dock - 3 USB-A port](https://www.amazon.com/dp/B0B7HVZNMB)
-    - [JSAUX Stand Base](https://www.amazon.com/dp/B09YY1NSBX) - Just a stand, not a dock with silicone padding
-    - [Anker USB-C Travel Hub](https://www.amazon.com/dp/B07ZVKTP53/)
-    - [90 Degree Rear-facing USB-C Adapter](https://www.amazon.com/dp/B0B9T7X22Z)
+    - **Case**
+        - [tomtoc Carrying Case](https://www.amazon.com/dp/B09ZYFV1GD/) - Larger Pouch with Shoulder Strap
+        - [MVRPDXC Sling Bag-style Case](https://www.amazon.com/dp/B0B2QRVPGL/)
+        - [Daydayup Carrying Case](https://www.amazon.com/dp/B09STVV9M8/)
+        - [JSAUX Carrying Case](https://www.amazon.com/dp/B09ZB1RZ2G/)
 
-- **Power Banks**
-    - [Baseus Power Bank - 65W 20,000mAh](https://www.amazon.com/dp/B08THCNNCS) - TSA/Airplane safe
-    - [Baseus Power Bank - 65W 30,000mAh](https://www.amazon.com/dp/B08JV4W4NY/) - Not TSA/Airplane safe
+    - **Chargers and Docks**
+        - [Steam Deck Charging Info](https://www.reddit.com/r/SteamDeck/comments/ub0ai4/a_few_important_things_about_charging_the_deck/) - Everything you need to know about charging your Steam Deck
+        - [ACEFAST GaN 65W Charger Dock](https://www.amazon.com/gp/product/B09W5T391Z/) - Combo charger and mini-dock with USB-C, USB-A, and 4K/HD HDMI
+        - [Anker Nano II 45W Charger](https://www.amazon.com/dp/B08T5QVTKW/) - The tiniest charger for your Steam Deck
+        - [JSAUX Dock - 3 USB-A port](https://www.amazon.com/dp/B0B7HVZNMB)
+        - [JSAUX Stand Base](https://www.amazon.com/dp/B09YY1NSBX) - Just a stand, not a dock with silicone padding
+        - [Anker USB-C Travel Hub](https://www.amazon.com/dp/B07ZVKTP53/)
+        - [90 Degree Rear-facing USB-C Adapter](https://www.amazon.com/dp/B0B9T7X22Z)
 
-- **Controllers**
-  - [How to Connect an External Controller](https://www.lifewire.com/use-external-controllers-on-steam-deck-6544100)
+    - **Power Banks**
+        - [Baseus Power Bank - 65W 20,000mAh](https://www.amazon.com/dp/B08THCNNCS) - TSA/Airplane safe
+        - [Baseus Power Bank - 65W 30,000mAh](https://www.amazon.com/dp/B08JV4W4NY/) - Not TSA/Airplane safe
+
+    - **Controllers**
+      - [How to Connect an External Controller](https://www.lifewire.com/use-external-controllers-on-steam-deck-6544100)
+
 
 ---
 ## Impressão 3D de acessórios para o Steam Deck
