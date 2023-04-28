@@ -31,3 +31,12 @@
 [submodule "aux-repos/awesome-steamdeck"]
 	path = aux-repos/awesome-steamdeck
 	url = https://github.com/wilco42/awesome-steamdeck.git
+[submodule "aux-repos/Steam-Deck-Ultimate-Windows-Guide"]
+	path = aux-repos/Steam-Deck-Ultimate-Windows-Guide
+	url = https://github.com/baldsealion/Steam-Deck-Ultimate-Windows-Guide.git
+[submodule "aux-repos/steam-deck-tricks"]
+	path = aux-repos/steam-deck-tricks
+	url = https://github.com/popsUlfr/steam-deck-tricks.git
+[submodule "aux-repos/steamdeck-tips"]
+	path = aux-repos/steamdeck-tips
+	url = https://github.com/Matalus/steamdeck-tips.git
