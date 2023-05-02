@@ -38,20 +38,23 @@ require (
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4417b17649e9d29c5a885d827114c5facb13a504
 	golang.org/x/net v0.7.0 // indirect
 	golang.org/x/text v0.7.0 // indirect
-=======
-	golang.org/x/net v0.0.0-20211118161319-6a13c67c3ce4 // indirect
-	golang.org/x/text v0.3.8 // indirect
->>>>>>> main
-=======
 	golang.org/x/net v0.7.0 // indirect
 	golang.org/x/text v0.7.0 // indirect
+<<<<<<< HEAD
 >>>>>>> 8976995a99d0b3c669a56304ff9c0ea6b5873ea0
 =======
 	golang.org/x/net v0.0.0-20220722155237-a158d28d115b // indirect
 	golang.org/x/text v0.7.0 // indirect
 >>>>>>> d19398e9ed6a87e8c48b0eab6eef10188f8b7490
+=======
+	golang.org/x/net v0.0.0-20220722155237-a158d28d115b // indirect
+	golang.org/x/text v0.7.0 // indirect
+>>>>>>> 4417b17649e9d29c5a885d827114c5facb13a504
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	honnef.co/go/js/dom v0.0.0-20210725211120-f030747120f2 // indirect
 )
