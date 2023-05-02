@@ -38,16 +38,22 @@ nav:
       - Configurações de Performance: configuracoes-avancadas/steamdeck-performance.md          
     - Jogos: 
       - Jogos no Steam Deck: jogos/jogos.md
-      - Como rodar jogos não Steam no Steam Deck: jogos/jogos.md
-      - Como rodar jogos alternativos no Steam Deck: jogos/jogos.md
-      - O ProtomDB: jogos/jogos.md
-      - Onde comprar Jogos para o Steam Deck: jogos/jogos.md      
+      - Onde comprar Jogos para o Steam Deck: jogos/onde-comprar-jogos-para-o-steam-deck.md
+      - O ProtomDB: jogos/protondb.md 
+      - Como rodar jogos não Steam no Steam Deck:
+        - Jogos Epic & GoG: jogos/jogos-epic.md
+        - Jogos Battle.net: jogos/jogos-battle-net.md
+        - Jogos Amazon Prime: jogos/jogos-amazon-prime.md
+        - Jogos Xbox e PC Game Pass: jogos/jogos-xbox-pc-game-pass.md
+      - Como rodar jogos alternativos no Steam Deck: jogos/jogos-alternativos-steam-deck.md
     - Emulacao: 
       - Emulacao no Steam Deck: emulacao/emulacao.md 
       - Emudeck: emulacao/emudeck.md 
       - Guia Descomplicado do Emudeck: emulacao/guia1.md
       - Guia de Emulação para o Steam Deck - Retro Game Corps: emulacao/retrogamecorps.md
       - Packs de Emuladores para o Steam Deck: emulacao/packs-completos-de-emuladores-para-o-steam-deck.md
+      - Retrodeck: emulacao/retrodeck.md
+      - Batocera: emulacao/batocera.md
       - Roms: emulacao/roms.md
       - Emulacao - Nintendo:
         - Nintendo Switch: emulacao/nintendo/emulacao-nintendo-switch-steam-deck.md
@@ -67,8 +73,8 @@ nav:
         - Outros Consoles: emulacao/outros/outros.md
     - Windows no Steam Deck: windows/windows.md
     - Hacks & Utilitários:
-        - Hacks & Utilitários para o Steam Deck: windows/windows.md
-        - CryoUtilities: windows/windows.md
+        - Hacks & Utilitários para o Steam Deck: hscks-e-utilitarios/hacks.md
+        - CryoUtilities: hscks-e-utilitarios/cryoutilities.md
     - Ajuda & Dicas: ajuda/ajuda.md
   - FAQ: faq/faq.md
   - Sobre o Guia do Steam Deck: sobre.md

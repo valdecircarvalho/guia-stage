@@ -15,6 +15,7 @@ search:
 # Configurações avançadas no Steam Deck
 :fontawesome-solid-person-digging: **_Em construção_**
 
+
 ----
 
 !!! info "Fontes"

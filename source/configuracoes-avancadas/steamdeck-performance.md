@@ -12,6 +12,8 @@ search:
   boost: 2
   exclude: false
 ---
+:fontawesome-solid-person-digging: **_Em construção_**
+:simple-steamdeck:
 
 # Configurações de Performance do Steam Deck
 

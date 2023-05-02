@@ -1,10 +1,19 @@
 ---
-title: '3.3 - Outros sites para comprar jogos Steam'
-date: 2023-03-01T00:00:00+00:00
-weight: 3.3
-summary: 'Outros sites para comprar jogos Steam'
+title: Outros sites para comprar jogos Steam #aparece no titulo do navegador
+description: Outros sites para comprar jogos Steam  # descrição para meta tag
+authors:
+    - Valdecir Carvalho
+date: 2023-04-01
+tags:
+  - steamdeck
+  - protondb
+  - jogos
 ---
 
+:fontawesome-solid-person-digging: **_Em construção_**
+:simple-steamdeck:
+
+# Outros sites para comprar jogos Steam
 
 Se você, assim como eu, não é familiarizado com o mundo de jogos de PC, saiba que é possível comprar jogos de Steam em outros sites que não a Steam Store. 
 
@@ -18,3 +27,6 @@ Recomendo ter um pouco de cuidado, verificar o site, modo de pagamento, devoluç
 - [GG Deals - Steam Deals](https://gg.deals/deals/steam-deals/)
 - [SteamDB Sales](https://steamdb.info/sales/)
 - [SteamDB Sales - Novidades](https://steamdb.info/sales/history/)
+
+
+!!! info "Fontes"

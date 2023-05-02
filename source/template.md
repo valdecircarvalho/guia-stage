@@ -59,6 +59,10 @@ Both should links should open in a new tab.
 Some content
 ///
 
+
+!!! note "Phasellus posuere in sem ut cursus"
+
+
 ^^Insert me^^
 
 ??? optional-class "Summary"

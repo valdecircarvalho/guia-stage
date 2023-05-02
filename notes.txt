@@ -32,3 +32,8 @@ git submodule add https://github.com/ryanrudolfoba/SteamDeck-Clover-dualboot.git
 git submodule add https://github.com/matthewbarreiro/awesome-steam-deck.git
 git submodule add https://github.com/brenoprata10/steam-deck-romate.git
 git submodule add https://github.com/wilco42/awesome-steamdeck.git
+
+git submodule add https://github.com/XargonWan/RetroDECK.wiki.git
+git submodule add https://github.com/baldsealion/Steam-Deck-Ultimate-Windows-Guide.git
+git submodule add https://github.com/popsUlfr/steam-deck-tricks.git
+git submodule add https://github.com/Matalus/steamdeck-tips.git
