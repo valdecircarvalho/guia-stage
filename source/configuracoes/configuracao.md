@@ -46,12 +46,6 @@ Aperture Desk Job - https://store.steampowered.com/app/1902490/Aperture_Desk_Job
 
 ### Instale seus jogos preferidos
 
-
-
-
-
-
-
 ### Links Úteis
 
 !!! tip "Links Úteis"
