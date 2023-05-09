@@ -26,6 +26,9 @@ tags:
 
 :simple-steamdeck:
 
+:flag_br:
+
+:flag_us:
 
 
 :fontawesome-solid-person-digging:
@@ -83,6 +86,8 @@ Some content
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
 
+![](/img/o-guia-do-steam-deck-portugues-logo.png)
+![](/img/logo.svg)
 
 :smile: :heart: :thumbsup:
 

@@ -13,74 +13,13 @@ site_name: O Guia do Steam Deck
 site_description: ""
 site_author: ""
 copyright: >
-  Copyright &copy; 2023 - Valdecir Carvalho –
-  <a href="#__consent">Mudar configurações de cookies</a>
+  Copyright &copy; 2023 - Guia do Steam Deck por Valdecir Carvalho.
+  <a href="#__consent"></a>
 
 #repo_url: https://github.com/valdecircarvalho/guia-do-steam-deck/
 #repo_name: o guia do steam deck
 
-# Navigation Menu
 
-nav:
-  - Home: 
-    - index.md
-    - Steam Deck: 
-      - O Steam Deck: steamdeck/steamdeck.md
-      - Acessórios: steamdeck/steamdeck-acessorios.md
-      - Links Úteis: steamdeck/links.md
-    - Configurações Básicas: 
-      - Configurações Iniciais: configuracoes/configuracao.md
-      - Conta Steam: configuracoes/conta-steam.md
-      - Controles: configuracoes/controles.md
-      - Teclas de Atalho: configuracoes/teclas-de-atalho-no-steam-deck.md
-    - Configurações Avançadas: 
-      - Configurações Avançadas: configuracoes-avancadas/configuracoes-avancadas-steam-deck.md
-      - Configurações de Performance: configuracoes-avancadas/steamdeck-performance.md          
-    - Jogos: 
-      - Jogos no Steam Deck: jogos/jogos.md
-      - Onde comprar Jogos para o Steam Deck: jogos/onde-comprar-jogos-para-o-steam-deck.md
-      - O ProtomDB: jogos/protondb.md 
-      - Como rodar jogos não Steam no Steam Deck:
-        - Jogos Epic & GoG: jogos/jogos-epic.md
-        - Jogos Battle.net: jogos/jogos-battle-net.md
-        - Jogos Amazon Prime: jogos/jogos-amazon-prime.md
-        - Jogos Xbox e PC Game Pass: jogos/jogos-xbox-pc-game-pass.md
-      - Como rodar jogos alternativos no Steam Deck: jogos/jogos-alternativos-steam-deck.md
-    - Emulacao: 
-      - Emulacao no Steam Deck: emulacao/emulacao.md 
-      - Emudeck: emulacao/emudeck.md 
-      - Guia Descomplicado do Emudeck: emulacao/guia1.md
-      - Guia de Emulação para o Steam Deck - Retro Game Corps: emulacao/retrogamecorps.md
-      - Packs de Emuladores para o Steam Deck: emulacao/packs-completos-de-emuladores-para-o-steam-deck.md
-      - Retrodeck: emulacao/retrodeck.md
-      - Batocera: emulacao/batocera.md
-      - Roms: emulacao/roms.md
-      - Emulacao - Nintendo:
-        - Nintendo Switch: emulacao/nintendo/emulacao-nintendo-switch-steam-deck.md
-        - Nintendo Wii U: emulacao/nintendo/emulacao-nintendo-wii-u-steam-deck.md
-        - Nintendo Wii: emulacao/nintendo/emulacao-nintendo-wii-steam-deck.md
-        - Nintendo 3DS: emulacao/nintendo/emulacao-nintendo-3ds-steam-deck.md        
-      - Emulacao - Microsoft:
-        - Microsoft Xbox: emulacao/microsoft/microsoft-xbox.md
-        - Microsoft Xbox 360: emulacao/microsoft/microsoft-xbox-360.md
-      - Emulacao - Sony: 
-        - Sony PlayStation 1: emulacao/sony/sony-playstation-1.md
-        - Sony PlayStation 2: emulacao/sony/sony-playstation-2.md
-        - Sony PlayStation 3: emulacao/sony/sony-playstation-3.md
-        - Sony PlayStation PSP: emulacao/sony/sony-playstation-psp.md
-        - Sony PlayStation Vita: emulacao/sony/sony-playstation-vita.md
-      - Emulacao - Outros: 
-        - Outros Consoles: emulacao/outros/outros.md
-    - Windows no Steam Deck: windows/windows.md
-    - Hacks & Utilitários:
-        - Hacks & Utilitários para o Steam Deck: hscks-e-utilitarios/hacks.md
-        - CryoUtilities: hscks-e-utilitarios/cryoutilities.md
-    - Ajuda & Dicas: ajuda/ajuda.md
-  - FAQ: faq/faq.md
-  - Sobre o Guia do Steam Deck: sobre.md
-  - Contribua com o Guia do Steam Deck: contribua.md
-  - Tags: tags.md
-  - Template: template.md
 
 
 # use_directory_urls: true
@@ -154,8 +93,8 @@ theme:
   language: pt-BR 
   include_sidebar: true
   font: false
-  logo: assets/logo.png
-  favicon: images/favicon.png
+  logo: /img/guia-do-steam-deck-logo.png
+  favicon: /img/favicon.ico
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -218,3 +157,68 @@ extra:
       link: https://github.com/valdecircarvalho
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/guiadosteamdeck
+
+
+# Navigation Menu
+
+nav:
+  - Home: 
+    - index.md
+    - Steam Deck: 
+      - O Steam Deck: steamdeck/steamdeck.md
+      - Acessórios: steamdeck/steamdeck-acessorios.md
+      - Links Úteis: steamdeck/links.md
+    - Configurações Básicas: 
+      - Configurações Iniciais: configuracoes/configuracao.md
+      - Conta Steam: configuracoes/conta-steam.md
+      - Controles: configuracoes/controles.md
+      - Teclas de Atalho: configuracoes/teclas-de-atalho-no-steam-deck.md
+    - Configurações Avançadas: 
+      - Configurações Avançadas: configuracoes-avancadas/configuracoes-avancadas-steam-deck.md
+      - Configurações de Performance: configuracoes-avancadas/steamdeck-performance.md          
+    - Jogos: 
+      - Jogos no Steam Deck: jogos/jogos.md
+      - Onde comprar Jogos para o Steam Deck: jogos/onde-comprar-jogos-para-o-steam-deck.md
+      - O ProtomDB: jogos/protondb.md 
+      - Como rodar jogos não Steam no Steam Deck:
+        - Jogos Epic & GoG: jogos/jogos-epic.md
+        - Jogos Battle.net: jogos/jogos-battle-net.md
+        - Jogos Amazon Prime: jogos/jogos-amazon-prime.md
+        - Jogos Xbox e PC Game Pass: jogos/jogos-xbox-pc-game-pass.md
+      - Como rodar jogos alternativos no Steam Deck: jogos/jogos-alternativos-steam-deck.md
+    - Emulacao: 
+      - Emulacao no Steam Deck: emulacao/emulacao.md 
+      - Emudeck: emulacao/emudeck.md 
+      - Guia Descomplicado do Emudeck: emulacao/guia1.md
+      - Guia de Emulação para o Steam Deck - Retro Game Corps: emulacao/retrogamecorps.md
+      - Packs de Emuladores para o Steam Deck: emulacao/packs-completos-de-emuladores-para-o-steam-deck.md
+      - Retrodeck: emulacao/retrodeck.md
+      - Batocera: emulacao/batocera.md
+      - Roms: emulacao/roms.md
+      - Emulacao - Nintendo:
+        - Nintendo Switch: emulacao/nintendo/emulacao-nintendo-switch-steam-deck.md
+        - Nintendo Wii U: emulacao/nintendo/emulacao-nintendo-wii-u-steam-deck.md
+        - Nintendo Wii: emulacao/nintendo/emulacao-nintendo-wii-steam-deck.md
+        - Nintendo 3DS: emulacao/nintendo/emulacao-nintendo-3ds-steam-deck.md        
+      - Emulacao - Microsoft:
+        - Microsoft Xbox: emulacao/microsoft/microsoft-xbox.md
+        - Microsoft Xbox 360: emulacao/microsoft/microsoft-xbox-360.md
+      - Emulacao - Sony: 
+        - Sony PlayStation 1: emulacao/sony/sony-playstation-1.md
+        - Sony PlayStation 2: emulacao/sony/sony-playstation-2.md
+        - Sony PlayStation 3: emulacao/sony/sony-playstation-3.md
+        - Sony PlayStation PSP: emulacao/sony/sony-playstation-psp.md
+        - Sony PlayStation Vita: emulacao/sony/sony-playstation-vita.md
+      - Emulacao - Outros: 
+        - Outros Consoles: emulacao/outros/outros.md
+    - Windows no Steam Deck: windows/windows.md
+    - Hacks & Utilitários:
+        - Hacks & Utilitários para o Steam Deck: hscks-e-utilitarios/hacks.md
+        - CryoUtilities: hscks-e-utilitarios/cryoutilities.md
+    - Ajuda & Dicas: ajuda/ajuda.md
+  - FAQ: faq/faq.md
+  - Sobre o Guia do Steam Deck: sobre.md
+  - Contribua com o Guia do Steam Deck: contribua.md
+  - Tags: tags.md
+  - Template: template.md
+

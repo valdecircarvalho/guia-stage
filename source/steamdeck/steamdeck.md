@@ -9,6 +9,7 @@ tags:
 ---
 
 :fontawesome-solid-person-digging: **_Em construção_**
+:simple-steamdeck:
 
 # O Steam Deck :simple-steamdeck:
 
