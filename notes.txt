@@ -16,6 +16,7 @@ Plugins
 pip install mkdocs-minify-plugin
 pip install mkdocs-redirects
 pip install pillow cairosvg
+pip install mkdocs-awesome-pages-plugin - https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin
 
 
 add submodules

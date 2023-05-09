@@ -30,7 +30,7 @@ extra_css:
 ## Plugins Configuration
 plugins:
   - open-in-new-tab ## pip install mkdocs-open-in-new-tab
-
+  - awesome-pages ## pip install mkdocs-awesome-pages-plugin - https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin
   - search:
       indexing: 'full'
       lang: pt
@@ -216,6 +216,7 @@ nav:
         - Hacks & Utilitários para o Steam Deck: hscks-e-utilitarios/hacks.md
         - CryoUtilities: hscks-e-utilitarios/cryoutilities.md
     - Ajuda & Dicas: ajuda/ajuda.md
+  #- Game Config: game-config/index.md
   - FAQ: faq/faq.md
   - Sobre o Guia do Steam Deck: sobre.md
   - Contribua com o Guia do Steam Deck: contribua.md
